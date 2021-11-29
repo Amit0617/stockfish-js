@@ -18,7 +18,7 @@ Download Stockfish 5 compiled to javascript:
 
 [stockfish.js](https://github.com/nmrugg/stockfish.js) is a fork of this fork which adds some
 interesting features. Most notably is the ability for the engine to receive commands between
-iterations, which allows aborting an infitite search (pondering/analysing).
+iterations, which allows aborting an infinite search (pondering/analysing).
 
 ### API
 
